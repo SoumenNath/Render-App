@@ -1,0 +1,1 @@
+Deleted node_modules directory on GitHub, so everytime just make a new branch, push to it and then delete the node_modules dir and merge with main
